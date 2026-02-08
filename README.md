@@ -16,11 +16,11 @@
 
 <div align="center" markdown="1">
 <h1>------------ License ------------</h1>
-  <p>This program's under the MIT license</p><img alt="Static Badge" src="https://img.shields.io/badge/MIT-you?style=for-the-badge&logo=MIT&label=License&color=blue" href="https://github.com/transcrimee/LiveChatPython/blob/main/LICENSE">
+  <p>This program's under the MIT license</p><a href="https://github.com/transcrimee/LiveChatPython/blob/main/LICENSE"><img alt="Static Badge" src="https://img.shields.io/badge/MIT-you?style=for-the-badge&logo=MIT&label=License&color=blue"></img>
 </div>
 
 
 <div align="center" markdown="1">
 <h1>------------ Join My Server ------------</h1>
-  <p>Just a chill Community I'm building anyone is welcome</p><img alt="Static Badge" src="https://img.shields.io/badge/my%20server-you?style=for-the-badge&logo=discord&logoColor=white&color=blue" href="https://discord.gg/WPEADJGGGX">
+  <p>Just a chill Community I'm building anyone is welcome</p><a href="https://discord.gg/WPEADJGGGX"><img alt="Static Badge" src="https://img.shields.io/badge/my%20server-you?style=for-the-badge&logo=discord&logoColor=white&color=blue"></img>
 </div>
